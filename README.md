@@ -27,3 +27,6 @@
 ### :zap:Github contribution and stats
 <img src="https://github-readme-stats-iota-tan.vercel.app/api?username=girish004&show_icons=true&theme=radical" >
 
+<img src="https://github-readme-stats-iota-tan.vercel.app/api/top-langs/?username=girish004&layout=compact">
+
+
