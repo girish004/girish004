@@ -8,7 +8,8 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on interesting projects which introduces me to useful frameworks
-- 🌱 I’m currently learning data science, web development and web security!
+- 🌱 I’m currently learning app development and web security. 
+- :robot: Hands-on experience in data science, web development(Includes django, flask, jsp, servlet, jsp and basic node.js)!
 - 👯 I’m looking to collaborate on industrial projects related to web development and data sceince.
 <!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about tech related queries! Always ready to help and learn😄
