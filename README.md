@@ -30,8 +30,8 @@ Here are some ideas to get you started:-->
 <img width=32 height=32 src="https://simpleicons.org/icons/c.svg">
 <img width=32 height=32 src="https://simpleicons.org/icons/python.svg">
 <img width=32 height=32 src="https://simpleicons.org/icons/java.svg">
-<img width=32 height=32 src="https://simpleicons.org/icons/html.svg">
-<img width=32 height=32 src="https://simpleicons.org/icons/css.svg">
+<img width=32 height=32 src="https://simpleicons.org/icons/html3.svg">
+<img width=32 height=32 src="https://simpleicons.org/icons/css5.svg">
 <img width=32 height=32 src="https://simpleicons.org/icons/js.svg">
 <img width=32 height=32 src="https://simpleicons.org/icons/npm.svg">
 <img width=32 height=32 src="https://simpleicons.org/icons/html.svg">
