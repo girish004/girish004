@@ -18,9 +18,9 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Loves to party and watch cricket :grin: .
 
 ### Connect with me:
-[<img width=32 height=32 src="https://simpleicons.org/icons/instagram.svg">](https://www.instagram.com/girish__4)
-[<img width=32 height=32 src="https://simpleicons.org/icons/facebook.svg">](https://www.instagram.com/girish__4)
-[<img width=32 height=32 src="https://simpleicons.org/icons/linkedin.svg">](https://www.instagram.com/girish__4)
-[<img width=32 height=32 src="https://simpleicons.org/icons/github.svg">](https://www.instagram.com/girish__4)
-[<img width=32 height=32 src="https://simpleicons.org/icons/instagram.svg">](https://www.instagram.com/girish__4)
-[<img width=32 height=32 src="https://simpleicons.org/icons/gmail.svg">](https://www.instagram.com/girish__4)
+[<img width=32 height=32 src="https://simpleicons.org/icons/instagram.svg">](https://www.instagram.com/girish__4)  
+[<img width=32 height=32 src="https://simpleicons.org/icons/facebook.svg">](https://www.instagram.com/girish__4)  
+[<img width=32 height=32 src="https://simpleicons.org/icons/linkedin.svg">](https://www.instagram.com/girish__4)  
+[<img width=32 height=32 src="https://simpleicons.org/icons/github.svg">](https://www.instagram.com/girish__4)  
+[<img width=32 height=32 src="https://simpleicons.org/icons/twitter.svg">](https://www.instagram.com/girish__4)  
+[<img width=32 height=32 src="https://simpleicons.org/icons/gmail.svg">](https://www.instagram.com/girish__4)  
