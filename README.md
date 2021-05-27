@@ -24,3 +24,6 @@ Here are some ideas to get you started:-->
 [<img width=32 height=32 src="https://simpleicons.org/icons/github.svg">](https://www.github.com/girish004)
 [<img width=32 height=32 src="https://simpleicons.org/icons/twitter.svg">](https://twitter.com/sabharigirish04)
 [<img width=32 height=32 src="https://simpleicons.org/icons/gmail.svg">](mailto:sabharigirish004@gmail.com)
+
+### Tools familiar to me:
+[<img width=32 height=32 src="https://simpleicons.org/icons/visualstudiocode.svg">]
