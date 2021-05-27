@@ -18,4 +18,4 @@ Here are some ideas to get you started:-->
 - ⚡ Fun fact: Loves to party and watch cricket :grin: .
 
 ### Connect with me:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/instagram/instagram.svg" />
+<img src="https://simpleicons.org/icons/instagram.svg">
