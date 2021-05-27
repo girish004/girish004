@@ -2,8 +2,9 @@
 
 <hr>
 
-### :zap:Here is a brief intro about me.
 <img align="right" width="500" height="500" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
+
+### :zap:Here is a brief intro about me.
 - 🔭 I’m currently working on interesting projects which introduces me to useful frameworks
 - 🌱 I’m currently learning app development and web security. 
 - :robot: Hands-on experience in data science, web development(Includes django, flask, jsp, servlet, jsp and basic node.js)!
