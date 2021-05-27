@@ -1,10 +1,9 @@
 ### Hi there👋. This is S Sabhari Girish here. A Tech enthusiast and sophomore at Vellore Institute of Technology, Chennai!
-<img align="right" width="500" height="500" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 
 <hr>
 
 ### :zap:Here is a brief intro about me.
-
+<img align="right" width="500" height="500" src="https://i.pinimg.com/originals/16/fe/7e/16fe7e7fb6eebb3087b6dc418748ee56.gif">
 - 🔭 I’m currently working on interesting projects which introduces me to useful frameworks
 - 🌱 I’m currently learning app development and web security. 
 - :robot: Hands-on experience in data science, web development(Includes django, flask, jsp, servlet, jsp and basic node.js)!
