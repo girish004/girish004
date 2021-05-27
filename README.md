@@ -1,20 +1,14 @@
-### Hi there👋. This is S Sabhari Girish here. A Tech enthusiast and sophomore at Vellore Institute of Technology, Chennai!
+<p align="center">
+ Hi there👋. This is S Sabhari Girish here. A Tech enthusiast and sophomore at Vellore Institute of Technology, Chennai!
+</p>  
 
-## Here is a brief intro about me.
-
-<!--
-**girish004/girish004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:-->
+## :zap:Here is a brief intro about me.
 
 - 🔭 I’m currently working on interesting projects which introduces me to useful frameworks
 - 🌱 I’m currently learning app development and web security. 
 - :robot: Hands-on experience in data science, web development(Includes django, flask, jsp, servlet, jsp and basic node.js)!
 - 👯 I’m looking to collaborate on industrial projects related to web development and data sceince.
-<!--- 🤔 I’m looking for help with ...-->
 - 💬 Ask me about tech related queries! Always ready to help and learn😄
-<!--- 📫 How to reach me: ...-->
-<!--- 😄 Pronouns: ...-->
 - ⚡ Fun fact: Loves to party and watch cricket :grin: .
 
 ### :zap: Connect with me:
