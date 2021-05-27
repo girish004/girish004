@@ -1,5 +1,6 @@
 ### Hi there👋. This is S Sabhari Girish here. A Tech enthusiast and sophomore at Vellore Institute of Technology, Chennai!
 
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F784822672535142521%2F&psig=AOvVaw0cgw-T15VN223qL2L8VGba&ust=1622200698393000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDwhdXe6fACFQAAAAAdAAAAABAI">
 <hr>
 
 ### :zap:Here is a brief intro about me.
