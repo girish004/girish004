@@ -1,8 +1,7 @@
-<p align="center">
- Hi there👋. This is S Sabhari Girish here. A Tech enthusiast and sophomore at Vellore Institute of Technology, Chennai!
-</p>  
+### Hi there👋. This is S Sabhari Girish here. A Tech enthusiast and sophomore at Vellore Institute of Technology, Chennai!
+  
 
-## :zap:Here is a brief intro about me.
+### :zap:Here is a brief intro about me.
 
 - 🔭 I’m currently working on interesting projects which introduces me to useful frameworks
 - 🌱 I’m currently learning app development and web security. 
