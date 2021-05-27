@@ -26,4 +26,4 @@ Here are some ideas to get you started:-->
 [<img width=32 height=32 src="https://simpleicons.org/icons/gmail.svg">](mailto:sabharigirish004@gmail.com)
 
 ### Tools familiar to me:
-[<img width=32 height=32 src="https://simpleicons.org/icons/visualstudiocode.svg">]
+<img width=32 height=32 src="https://simpleicons.org/icons/visualstudiocode.svg">
