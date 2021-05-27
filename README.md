@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there👋. This is S Sabhari Girish here. A Tech enthusiast and sophomore at Vellore Institute of Technology, Chennai!
+
+## Here is a brief intro about me.
 
 <!--
 **girish004/girish004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-Here are some ideas to get you started:
+
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on interesting projects which introduces me to useful frameworks
 - 🌱 I’m currently learning data science, web development and web security!
