@@ -1,4 +1,4 @@
-### Hi there👋. This is S Sabhari Girish. A Tech enthusiast and sophomore at Vellore Institute of Technology, Chennai!
+### Hi there👋. This is S Sabhari Girish. A Tech enthusiast and a pre-final year student at Vellore Institute of Technology, Chennai!
 
 <hr>
 
