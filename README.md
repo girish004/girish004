@@ -6,7 +6,7 @@
 
 ### :zap:Here is a brief intro about me.
 - 🔭 I’m currently working on interesting projects which introduces me to useful frameworks
-- 🌱 I’m currently learning app development and web security. 
+- 🌱 I’m currently learning app development. 
 - :robot: Hands-on experience in data science, web development(Includes django, flask, servlet, jsp and basic node.js)!
 - 👯 I’m looking to collaborate on industrial projects related to web development and data sceince.
 - 💬 Ask me about tech related queries! Always ready to help and learn😄
